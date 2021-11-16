@@ -18,7 +18,6 @@ payload:
   - IP-CIDR,101.32.133.209/32,no-resolve
   - IP-CIDR,129.226.3.47/32,no-resolve
   - IP-CIDR,129.226.107.244/32,no-resolve
-  - USER-AGENT,WeChat*
   - DOMAIN-SUFFIX,wechatos.net
   - DOMAIN-SUFFIX,servicewechat.com
   - DOMAIN-SUFFIX,wechat.com
