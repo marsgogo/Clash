@@ -1,8 +1,8 @@
 payload:
-   - DOMAIN-KEYWORD,cn.ls.apple.com
-   - DOMAIN-KEYWORD,ssl-cn.ls.apple.com
-   - DOMAIN-KEYWORD,cn-ssl.ls.apple.com
-   - DOMAIN-KEYWORD,cn.apple.com
-   - DOMAIN,gs-loc-cn.apple.com
-   - DOMAIN,api.smoot.apple.cn
+  - DOMAIN-KEYWORD,cn.ls.apple.com
+  - DOMAIN-KEYWORD,ssl-cn.ls.apple.com
+  - DOMAIN-KEYWORD,cn-ssl.ls.apple.com
+  - DOMAIN-KEYWORD,cn.apple.com
+  - DOMAIN,gs-loc-cn.apple.com
+  - DOMAIN,api.smoot.apple.cn
 
